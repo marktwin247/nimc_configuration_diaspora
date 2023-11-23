@@ -1,0 +1,1 @@
+# nimc_configuration_diaspora
